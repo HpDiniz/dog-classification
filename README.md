@@ -1,4 +1,4 @@
-# Dog Classification setup
+# Setup
 
 conda create -n gpu python=3.6
 
